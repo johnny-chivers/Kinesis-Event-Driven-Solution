@@ -1,0 +1,6 @@
+{
+"firstName":"{{name.firstName}}",
+"lastName":"{{name.lastName}}",
+"id":{{random.number(70)}},
+"ip":"{{internet.ip}}"
+}
